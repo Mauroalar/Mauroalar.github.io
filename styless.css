@@ -2,10 +2,12 @@ div{
     background-color: rgb(168, 172, 180);
     padding: 20px;
     margin: 10px;
+    width: 800px;
 }
 h1 {
     color:rgb(15, 15, 53);
     text-align: center;
+    padding-top: 15px;
 }
 p {
     color: black;
